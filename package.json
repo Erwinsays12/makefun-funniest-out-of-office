@@ -1,0 +1,1 @@
+{"description":"One original out-of-office auto-reply line, written to /output/entry.txt","name":"makefun-funniest-out-of-office","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
